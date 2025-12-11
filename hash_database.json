@@ -1,0 +1,18 @@
+{
+    "hai.txt": "60e786861c4baf6184a7c9e55c94ef73392e8cdd5ea61e6395a18a0194e458b1",
+    "/home/eroshik/hai.txt": {
+        "hash": "53692cbada12803521a8ff3c551b14bb0888fbf35316ee987c7b644dd141cca1",
+        "algo": "sha256",
+        "last_checked": "2025-12-11T03:18:49.367674"
+    },
+    "/home/eroshik/.goutputstream-6ZYFH3": {
+        "hash": "7a2e5c477d86dbc57c8329465f8634cbd642145fd92a84960df0939c3c16e413",
+        "algo": "sha256",
+        "last_checked": "2025-12-11T03:07:29.408361"
+    },
+    "/home/eroshik/hash_database.json": {
+        "hash": "329cb69c940af6b578cd5999cca0a94828859913d8a76160b42aaa38e32c2eb5",
+        "algo": "sha256",
+        "last_checked": "2025-12-11T03:07:59.605434"
+    }
+}
